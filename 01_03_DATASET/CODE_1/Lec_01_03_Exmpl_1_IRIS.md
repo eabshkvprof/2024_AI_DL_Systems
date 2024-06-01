@@ -1,4 +1,4 @@
-# Лекція 08. Датасети
+# Лекція 01.03. Датасети
 
 
 ## ПРИКЛАД 1. **Sklearn**  IRIS
@@ -42,7 +42,7 @@ print(irisDataset.data[50,:], irisDataset.target_names[irisDataset.target[50]])
 
     IRIS shape (150, 4)
     [7.  3.2 4.7 1.4] versicolor
-    
+
 
 ### Візуалізація IRIS
 
@@ -75,9 +75,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_10_0.png)
-    
+
 
 
 ### Візуалізація: клас - 2 ознаки
@@ -94,7 +94,5 @@ _ = ax.legend(
 ```
 
 
-    
-![png](output_12_0.png)
-    
 
+![png](output_12_0.png)

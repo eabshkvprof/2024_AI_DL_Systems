@@ -1,4 +1,4 @@
-# Лекція 08. Датасети
+# Лекція 01.03. Датасети
 
 
 ## ПРИКЛАД 3. **Sklearn** Генерування датасетів
@@ -70,9 +70,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_11_0.png)
-    
+
 
 
 
@@ -97,7 +97,7 @@ print('BLOB centers', centers)
     BLOB centers [[-3.29393594 -8.96550314]
      [-7.38936247  2.84251982]
      [-3.41793804  4.10520575]]
-    
+
 
 ### [sklearn.datasets.make_classification](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_classification.html)
 
@@ -116,9 +116,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_14_0.png)
-    
+
 
 
 
@@ -139,7 +139,7 @@ for sample in range (10):
     Sample 7 [1.07048554 1.37767675] 0
     Sample 8 [1.38109397 0.68194265] 1
     Sample 9 [-0.46302808  0.92292264] 1
-    
+
 
 [sklearn.datasets.make_gaussian_quantiles](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_gaussian_quantiles.html#sklearn.datasets.make_gaussian_quantiles)
 
@@ -155,9 +155,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_17_0.png)
-    
+
 
 
 
@@ -178,7 +178,7 @@ for sample in range (10):
     Sample 7 [ 0.16408688 -1.30401811] 1
     Sample 8 [ 1.13561376 -2.30388938] 2
     Sample 9 [0.68166629 0.10507702] 0
-    
+
 
 [sklearn.datasets.make_circles](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_circles.html#sklearn.datasets.make_circles)
 
@@ -191,9 +191,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_20_0.png)
-    
+
 
 
 [sklearn.datasets.make_moons](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html#sklearn.datasets.make_moons)
@@ -211,9 +211,9 @@ plt.show()
 ```
 
 
-    
+
 ![png](output_23_0.png)
-    
+
 
 
 
