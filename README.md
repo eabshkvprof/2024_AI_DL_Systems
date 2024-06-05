@@ -17,9 +17,9 @@
 
 | Лекція |Тема | Код | Посилання|
 | -------|------ | ------ | ------ |
-|**1.1**|**Введення в штучний інтелект (AI). Історичний огляд, персоналії. Огляд завдань у сфері штучного інтелекту**| | |
+|**1.1**|[**Введення в штучний інтелект (AI).](/Mod_01/01_01_/Lec_01_01_.pdf) Історичний огляд, персоналії. Огляд завдань у сфері штучного інтелекту**| | |
 |**1.2**|**Машинне навчання (DL): модель, навчання, інференс. Види машинного навчання**| | |
-|**1.3**|**[Датасет](/01_03_DATASET/Lec_01_03_.pdf). Поняття датасету. Організація датасету для машинного навчання. Генерація типових датасетів за допомогою Scikit-Learn**|[IRIS](/01_03_DATASET/CODE_1/Lec_01_03_Exmpl_1_IRIS.md) [Blobs](/01_03_DATASET/CODE_3/Lec_01_03_Exmpl_3_Blobs.md)|[SciKit](https://scikit-learn.org/stable/datasets.html) [TensorFlow](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)|
+|**1.3**|**[Датасет](/Mod_01/01_02_/Lec_01_03_.pdf). Поняття датасету. Організація датасету для машинного навчання. Генерація типових датасетів за допомогою Scikit-Learn**|[IRIS](/01_03_DATASET/CODE_1/Lec_01_03_Exmpl_1_IRIS.md) [Blobs](/01_03_DATASET/CODE_3/Lec_01_03_Exmpl_3_Blobs.md)|[SciKit](https://scikit-learn.org/stable/datasets.html) [TensorFlow](https://www.tensorflow.org/datasets/catalog/overview#all_datasets)|
 
 </details>
 
