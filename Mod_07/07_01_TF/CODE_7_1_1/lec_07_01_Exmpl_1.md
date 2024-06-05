@@ -91,10 +91,9 @@ $$
 \begin{bmatrix}
 X \\ Y\\ Z
 \end{bmatrix} \Leftarrow \Rightarrow \mathcal T
-
 $$
 
-Та, нарешті, тензор $\mathcal Q$ рангу 4 - це список, що складається із списків, які в свою чергу теж є списками списків. Наприклад, тензор розмром $2*3*2*4$ елементів:
+Та, нарешті, тензор $\mathcal Q$ рангу 4 - це список, що складається із списків, які в свою чергу теж є списками списків. Наприклад, тензор розмром $2X3X2X4$ елементів:
 
 $$
 \begin{bmatrix}
@@ -149,7 +148,6 @@ $$
 \begin{bmatrix} \mathcal T_0 \\ \mathcal T_1
 \end{bmatrix}
 \end{bmatrix} \Leftarrow \Rightarrow \mathcal Q
-
 $$
 
 
