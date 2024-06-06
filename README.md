@@ -7,8 +7,8 @@
 <p align="center"><h2>Орієнтовано на вивчання наступних дисциплін:</h2></p>
 
 - ***Сучасні технології програмування*** [Syllabus](/ADDONS/Syllabus_01_Prog_Tech.md)
-- ***Методи та системи штучного інтелекту***  [Syllabus](/ADDONS/Syllabus_02_AI_ML_.md)
-- ***Технології програмування систем штучного інтелекту***  [Syllabus](/ADDONS/Syllabus_03_TF_.md)
+- ***Методи та системи штучного інтелекту***  [Syllabus](/ADDONS/Syllabus_02_AI_ML.md)
+- ***Технології програмування систем штучного інтелекту***  [Syllabus](/ADDONS/Syllabus_03_TF.md)
 
 <p align="center"><h2>Для спеціальностей IT напрямку:</h2></p>
 
