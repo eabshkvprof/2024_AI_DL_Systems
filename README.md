@@ -24,8 +24,7 @@
 - ***125 Кібербезпека***
 
 <details>
-
-<summary> <h2>Частина 1. Штучний інтелект та машинне навчання (AI, DL) </h2> </summary>
+<summary> <h2>Модуль 1. Штучний інтелект та машинне навчання (AI, DL) </h2> </summary>
 
 [**Частина 1. Докладніше**](/Mod_01_/README_01.md)
 
@@ -40,8 +39,7 @@
 </details>
 
 <details>
-
-<summary> <h2>Частина 2. Навчання з вчителем (Unsupervised Learning) </h2> </summary>
+<summary> <h2>Модуль 2. Навчання з вчителем (Unsupervised Learning) </h2> </summary>
 
 | Лекція |Тема | Код | Посилання|
 | -------|------ | ------ | ------ |
@@ -57,8 +55,7 @@
 </details>
 
 <details>
-
-<summary> <h2>Частина 3. Навчання без вчителя (самонавчання, Unsupervised Learning) </h2> </summary>
+<summary> <h2>Модуль 3. Навчання без вчителя (самонавчання, Unsupervised Learning) </h2> </summary>
 
 | Лекція |Тема | Код | Посилання|
 | -------|------ | ------ | ------ |
@@ -70,8 +67,7 @@
 </details>
 
 <details>
-
-<summary> <h2>Частина 4. Навчання з підкріпленням (Reinforcement Learning) </h2> </summary>
+<summary> <h2>Модуль 4. Навчання з підкріпленням (Reinforcement Learning) </h2> </summary>
 
 | Лекція |Тема | Код | Посилання|
 | -------|------ | ------ | ------ |
@@ -81,8 +77,7 @@
 </details>
 
 <details>
-
-<summary> <h2>Частина 5. Глибоке навчання (Deep Learning) </h2> </summary>
+<summary> <h2>Модуль 5. Глибоке навчання (Deep Learning) </h2> </summary>
 
 | Лекція |Тема | Код | Посилання|
 | -------|------ | ------ | ------ |
@@ -98,8 +93,7 @@
 </details>
 
 <details>
-
-<summary><h2>Частина 6. Високорівнева мова програмування Python</h2></summary>
+<summary><h2>Модуль 6. Високорівнева мова програмування Python</h2></summary>
 
 [**Частина 6. Докладніше**](/Mod_06_/README_06.md)
 
@@ -119,7 +113,7 @@
 
 <details>
 
-<summary> <h2>Частина 7. Бібліотеки TensorFlow та KERAS  </h2> </summary>
+<summary> <h2>Модуль 7. Бібліотеки TensorFlow та KERAS  </h2> </summary>
 
 | Лекція |Тема | Код | Посилання|
 | -------|------ | ------ | ------ |
