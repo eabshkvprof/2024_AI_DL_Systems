@@ -170,10 +170,7 @@ $$
 - string (!! навіть строки)
 
 
-
-
 ### Відмінності LIST <> Numpy Array <> Tensor
-
 
 ```python
 # Python List
