@@ -48,11 +48,9 @@ import numpy as np
 Вектор $\vec x$- одновимірний список. Наприклад, вектор, що має 4 компоненти:
 
 $$
-
 \begin{bmatrix}
 x_0, x_1, x_2, x_3
 \end{bmatrix} \Leftarrow \Rightarrow \vec{x}
-
 $$
 
 
