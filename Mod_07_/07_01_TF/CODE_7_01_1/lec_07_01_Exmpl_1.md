@@ -96,7 +96,7 @@ $$
 
 Та, нарешті, тензор $\mathcal Q$ рангу 4 - це список, що складається із списків, які в свою чергу теж є списками списків. Наприклад, тензор розмром $2\times3\times2\times4$ елементів можна представития як:
 
-```math
+$$
 \begin{bmatrix}
 \begin{bmatrix}
 \begin{bmatrix}
@@ -149,8 +149,7 @@ $$
 \begin{bmatrix} \mathcal T_0 \\ \mathcal T_1
 \end{bmatrix}
 \end{bmatrix} \Leftarrow \Rightarrow \mathcal Q
-
-```
+$$
 
 ### **ВИЗНАЧЕННЯ ТЕНЗОРУ в TENSORFLOW**
 
