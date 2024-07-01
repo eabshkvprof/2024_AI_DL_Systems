@@ -55,6 +55,7 @@ $$
 
 
 Матриця $X$, двовимірний список, або список списків. Наприклад, матриця розміром $3*4$, еквівалентна вектору із 3-х векторів:
+
 $$
 \begin{bmatrix}
 \begin{bmatrix} x_{0,0}, x_{0,1}, x_{0,2}, x_{0,3} \end{bmatrix}\\
@@ -62,7 +63,9 @@ $$
 \begin{bmatrix} x_{2,0}, x_{2,1}, x_{2,2}, x_{2,3} \end{bmatrix}
 \end{bmatrix}\Leftarrow \Rightarrow \begin{bmatrix}\vec{x_0}\\\vec{x_1}\\\vec{x_2}\end{bmatrix} \Leftarrow \Rightarrow X
 $$
+
 Тензор $\mathcal T$ рангу 3 це список, що складається із списків, яки в свою чергу теж є списками. Наприклад, тензор розмром $3*3*3$ :
+
 $$
 \begin{bmatrix}
 \begin{bmatrix}
@@ -90,7 +93,9 @@ $$
 X \\ Y\\ Z
 \end{bmatrix} \Leftarrow \Rightarrow \mathcal T
 $$
+
 Та, нарешті, тензор $\mathcal Q$ рангу 4 - це список, що складається із списків, які в свою чергу теж є списками списків. Наприклад, тензор розмром $2*3*2*4$ елементів:
+
 $$
 \begin{bmatrix}
 \begin{bmatrix}
@@ -144,6 +149,7 @@ $$
 \begin{bmatrix} \mathcal T_0 \\ \mathcal T_1
 \end{bmatrix}
 \end{bmatrix} \Leftarrow \Rightarrow \mathcal Q
+
 $$
 
 ### **ВИЗНАЧЕННЯ ТЕНЗОРУ в TENSORFLOW**
