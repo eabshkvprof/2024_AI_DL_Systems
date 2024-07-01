@@ -10,7 +10,7 @@ print(tf.__version__)
 ```
 
     2.15.0
-    
+
 
 
 ```python
@@ -18,7 +18,7 @@ print(tf.executing_eagerly() )
 ```
 
     True
-    
+
 
 
 ```python
@@ -46,11 +46,15 @@ import numpy as np
 Скаляр, це деяка змінна, наприклад $\quad x$
 
 Вектор $\vec x$- одновимірний список. Наприклад, вектор, що має 4 компоненти:
+
 $$
+
 \begin{bmatrix}
 x_0, x_1, x_2, x_3
 \end{bmatrix} \Leftarrow \Rightarrow \vec{x}
+
 $$
+
 
 Матриця $X$, двовимірний список, або список списків. Наприклад, матриця розміром $3*4$, еквівалентна вектору із 3-х векторів:
 $$
@@ -178,7 +182,7 @@ print(type(m1))
 ```
 
     <class 'list'>
-    
+
 
 
 ```python
@@ -188,7 +192,7 @@ print(type(m2), m2.shape)
 ```
 
     <class 'numpy.ndarray'> (2, 2)
-    
+
 
 
 ```python
@@ -198,7 +202,7 @@ print(type(m3), m3.shape)
 ```
 
     <class 'tensorflow.python.framework.ops.EagerTensor'> (2, 2)
-    
+
 
 ### Перетворення до тензору
 
@@ -209,7 +213,7 @@ print(type(t1), t1.shape)
 ```
 
     <class 'tensorflow.python.framework.ops.EagerTensor'> (2, 2)
-    
+
 
 
 ```python
@@ -218,7 +222,7 @@ print(type(t2), t2.shape)
 ```
 
     <class 'tensorflow.python.framework.ops.EagerTensor'> (2, 2)
-    
+
 
 
 ```python
@@ -227,7 +231,7 @@ print(type(t3), t3.shape)
 ```
 
     <class 'tensorflow.python.framework.ops.EagerTensor'> (2, 2)
-    
+
 
 ### Приклади створення константних тензорів
 
@@ -248,7 +252,7 @@ print(scalmatr)
     tf.Tensor(2, shape=(), dtype=int8)
     tf.Tensor([2], shape=(1,), dtype=int16)
     tf.Tensor([[2]], shape=(1, 1), dtype=int32)
-    
+
 
 
 ```python
@@ -261,7 +265,7 @@ print(tf.rank(scalmatr))
     tf.Tensor(0, shape=(), dtype=int32)
     tf.Tensor(1, shape=(), dtype=int32)
     tf.Tensor(2, shape=(), dtype=int32)
-    
+
 
 
 ```python
@@ -274,7 +278,7 @@ print(scalmatr.shape)
     ()
     (1,)
     (1, 1)
-    
+
 
 
 ```python
@@ -298,7 +302,7 @@ print('Розмір vec2',vector2.shape)
     tf.Tensor([10. 20. 30. 40. 50.], shape=(5,), dtype=float32)
     Ранг vec2 tf.Tensor(1, shape=(), dtype=int32)
     Розмір vec2 (5,)
-    
+
 
 
 ```python
@@ -329,7 +333,7 @@ print('Розмір matr2',matrix2.shape)
      [7. 8. 9.]], shape=(4, 3), dtype=float64)
     Ранг matr2 tf.Tensor(2, shape=(), dtype=int32)
     Розмір matr2 (4, 3)
-    
+
 
 ### Приклади створення вареативних тензорів
 
@@ -362,7 +366,7 @@ print('Розмір vmatr2',vmatr2.shape)
            [7, 8, 9]], dtype=int32)>
     Ранг vmatr2 tf.Tensor(2, shape=(), dtype=int32)
     Розмір vmatr2 (4, 3)
-    
+
 
 ### Атрибути тензору
 
@@ -387,7 +391,7 @@ print("Total number of elements (3*2*4*5): ", tf.size(tensor_rank_4).numpy())
     Elements along axis 0 of tensor: 3
     Elements along the last axis of tensor: 5
     Total number of elements (3*2*4*5):  120
-    
+
 
 
 ```python
@@ -403,12 +407,12 @@ print(tensor_rank_4[0:1].numpy())
        [1. 1. 1. 1. 1.]
        [1. 1. 1. 1. 1.]
        [1. 1. 1. 1. 1.]]
-    
+
       [[1. 1. 1. 1. 1.]
        [1. 1. 1. 1. 1.]
        [1. 1. 1. 1. 1.]
        [1. 1. 1. 1. 1.]]]]
-    
+
 
 
 ```python
@@ -423,4 +427,3 @@ print(tnrank4[:,1,2].numpy())
 ```
 
     [ 6 18 30]
-    
