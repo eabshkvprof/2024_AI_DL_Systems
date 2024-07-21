@@ -1,4 +1,4 @@
-# Модуль 2. Лекція 05. Логістична регресія з використанням Scikit-learn
+# Модуль 2. Лекція 06. Логістична регресія з використанням Scikit-learn
 
 Бібліотека scikit-learn | модуль linear_model | класс [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) | метод [fit]()
 
@@ -89,9 +89,9 @@ plt.show()
 ```
 
 
-    
+​    
 ![png](output_7_0.png)
-    
+​    
 
 
 
@@ -118,7 +118,7 @@ print(y.shape)
 
     (400, 1)
     (400,)
-    
+
 
 
 ```python
@@ -180,7 +180,7 @@ print("Accuracy / точність:", accuracy)
     [[42  2]
      [ 3 33]]
     Accuracy / точність: 0.9375
-    
+
 
 Приклад визначення: здоровий VS хворий
 
@@ -198,7 +198,7 @@ print(x_val, y_val, result )
 
     (1, 1)
     0.7 [1] Хворий
-    
+
 
 ### Приклад логістичного регресору для 3-х класів. Датасет IRIS.
 
@@ -243,9 +243,9 @@ plt.show()
 ```
 
 
-    
+​    
 ![png](output_20_0.png)
-    
+​    
 
 
 
