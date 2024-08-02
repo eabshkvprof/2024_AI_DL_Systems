@@ -12,7 +12,7 @@
 ​    прихований шар - два нейрони
 ​    вихідний шар один нейрон
 
-![png](.\MLP_Ris_4.png)
+![png](MLP_Ris_4.png)
 
 #### 6 ваг (W13, W14, W23,W24,W35, W45)
 
@@ -256,5 +256,5 @@ w45_slider = tk.Scale(frameS, from_=-1, to=+1, resolution=0.1, orient='horizonta
 
 
 
-![png](.\Exmpl_1_XOR.png)
+![png](Exmpl_1_XOR.png)
 

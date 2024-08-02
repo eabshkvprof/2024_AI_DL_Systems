@@ -12,7 +12,7 @@
 ​    прихований шар - два нейрони
 ​    вихідний шар один нейрон
 
-![png](.\MLP_Ris_4.png)
+![png](MLP_Ris_4.png)
 
 #### 6 ваг (W13, W14, W23,W24,W35, W45)
 
@@ -278,4 +278,4 @@ def plot(val):
 
 
 
-![png](.\Exmpl_2_Flower.png)
+![png](Exmpl_2_Flower.png)
